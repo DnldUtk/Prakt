@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zver\\source\\repos\\Prakt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49543058-D6E5-4B21-9CAD-F1F2B197D16E}|Prakt\\Prakt.csproj|c:\\users\\zver\\source\\repos\\prakt\\prakt\\form\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49543058-D6E5-4B21-9CAD-F1F2B197D16E}|Prakt\\Prakt.csproj|solutionrelative:prakt\\form\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49543058-D6E5-4B21-9CAD-F1F2B197D16E}|Prakt\\Prakt.csproj|c:\\users\\zver\\source\\repos\\prakt\\prakt\\form\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49543058-D6E5-4B21-9CAD-F1F2B197D16E}|Prakt\\Prakt.csproj|solutionrelative:prakt\\form\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49543058-D6E5-4B21-9CAD-F1F2B197D16E}|Prakt\\Prakt.csproj|c:\\users\\zver\\source\\repos\\prakt\\prakt\\form\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49543058-D6E5-4B21-9CAD-F1F2B197D16E}|Prakt\\Prakt.csproj|solutionrelative:prakt\\form\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\source\\repos\\Prakt\\Prakt\\Form\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "Prakt\\Form\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Zver\\source\\repos\\Prakt\\Prakt\\Form\\AdminForm.Designer.cs",
+              "RelativeToolTip": "Prakt\\Form\\AdminForm.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:08:15.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Zver\\source\\repos\\Prakt\\Prakt\\Form\\DoctorForm.cs",
+              "RelativeDocumentMoniker": "Prakt\\Form\\DoctorForm.cs",
+              "ToolTip": "C:\\Users\\Zver\\source\\repos\\Prakt\\Prakt\\Form\\DoctorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Prakt\\Form\\DoctorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T18:11:07.769Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorForm.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\source\\repos\\Prakt\\Prakt\\Form\\DoctorForm.cs",
+              "RelativeDocumentMoniker": "Prakt\\Form\\DoctorForm.cs",
+              "ToolTip": "C:\\Users\\Zver\\source\\repos\\Prakt\\Prakt\\Form\\DoctorForm.cs",
+              "RelativeToolTip": "Prakt\\Form\\DoctorForm.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAswJ8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T15:51:54.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
